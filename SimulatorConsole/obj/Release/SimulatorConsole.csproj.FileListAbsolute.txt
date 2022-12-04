@@ -1,0 +1,12 @@
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\SimulatorConsole\bin\Release\SimulatorConsole.exe.config
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\SimulatorConsole\bin\Release\SimulatorConsole.exe
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\SimulatorConsole\bin\Release\SimulatorConsole.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\SimulatorConsole\bin\Release\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\SimulatorConsole\bin\Release\System.Data.SQLite.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\SimulatorConsole\bin\Release\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\SimulatorConsole\bin\Release\System.Data.SQLite.xml
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\SimulatorConsole\obj\Release\SimulatorConsole.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\SimulatorConsole\obj\Release\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\SimulatorConsole\obj\Release\SimulatorConsole.csproj.CopyComplete
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\SimulatorConsole\obj\Release\SimulatorConsole.exe
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\SimulatorConsole\obj\Release\SimulatorConsole.pdb

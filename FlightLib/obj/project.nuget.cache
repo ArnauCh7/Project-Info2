@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z/dAcB4C7/SRX8TQ5IGY7SHaytYKTBkWsNw5AvOw56ymbWqk+SlJDeENpKft4HCdQbJ4wEUgGmV/J+ukEzaDVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berna\\Desktop\\UNIVERSITAT\\2A\\INFO II\\Project Info2 v3.2\\FlightLib\\FlightLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

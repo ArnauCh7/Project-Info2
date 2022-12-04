@@ -1,0 +1,963 @@
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.ErrorFormato.resources
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.timeMove.resources
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.ErrorFormato.resources
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.timeMove.resources
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.dll
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.ErrorFormato.resources
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.timeMove.resources
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.exe
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.ErrorFormato.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.timeMove.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.ErrorFormato.resources
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.timeMove.resources
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.exe
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\System.Data.SQLite.dll
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.ErrorFormato.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\bin\Debug\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.ErrorFormato.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\bin\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\bin\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\bin\Debug\System.Data.SQLite.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.ErrorFormato.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\bin\Debug\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\bin\Debug\Formularios.exe
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\bin\Debug\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.exe
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\Formularios\obj\Debug\Formularios.Resetear_o_no.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\bin\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\bin\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Resetear_o_no.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Resetear_o_no.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\bin\Debug\Formularios.exe
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\bin\Debug\Formularios.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.Resetear_o_no.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.exe
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\bin\Debug\Formularios.exe
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\bin\Debug\Formularios.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.Resetear_o_no.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.exe
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\Formularios\obj\Debug\Formularios.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\bin\Debug\Formularios.exe
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\bin\Debug\Formularios.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\bin\Debug\FlightLib.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Resetear_o_no.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.exe
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Resetear_o_no.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\bin\Debug\Formularios.exe
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\bin\Debug\Formularios.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Resetear_o_no.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.exe
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\bin\Debug\Formularios.exe
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\bin\Debug\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Resetear_o_no.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.exe
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.Resetear_o_no.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\bin\Debug\Formularios.exe
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\bin\Debug\Formularios.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.exe
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.exe
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\bin\Debug\Formularios.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.conflictError.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.exe
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.exe
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.conflictAvoid.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\Formularios\obj\Debug\Formularios.NewAircraftType.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.NewAircraftType.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.CompanyGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Delete_AircraftType.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Ranking.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Tutorial.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\bin\Debug\Formularios.exe
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\bin\Debug\Formularios.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\bin\Debug\FlightLib.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.CompanyGrind.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Delete_AircraftType.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.NewAircraftType.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Ranking.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.Tutorial.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.exe
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\Formularios\obj\Debug\Formularios.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\bin\Debug\Formularios.exe
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\bin\Debug\Formularios.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\bin\Debug\FlightLib.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.CompanyGrind.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Delete_AircraftType.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.NewAircraftType.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Ranking.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Tutorial.resources
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.exe
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\Formularios.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.CompanyGrind.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Delete_AircraftType.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.NewAircraftType.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Ranking.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Tutorial.resources
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.exe
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.CompanyGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Delete_AircraftType.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.NewAircraftType.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Ranking.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Tutorial.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\Formularios.exe
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.CompanyGrind.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Delete_AircraftType.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.NewAircraftType.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Ranking.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.Tutorial.resources
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.exe
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\Formularios\obj\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\bin\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\bin\Debug\Formularios.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\bin\Debug\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\bin\Debug\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\bin\Debug\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.ChangeVelocity.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.CompanyGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.Delete_AircraftType.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.Delete_Company.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.FlightGrind.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.autoData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.destEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.NewAircraftType.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.insertClickData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.NewCompany.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.Ranking.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.SendEmail.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.GuardarFichero.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.Login.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.Register.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.NewAircraft.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.Principal.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.FlightPlanData.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.Tutorial.resources
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.exe
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\Formularios\obj\Debug\Formularios.pdb

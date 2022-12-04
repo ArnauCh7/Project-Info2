@@ -1,0 +1,9 @@
+70 25
+Avion1 400 50 400 50 400 500 50 American_Airlines A320
+Avion2 50 500 50 500 750 50 50 Singapore_Airlines A340
+Avion3 50 50 50 50 750 500 50 Emirates B747
+Avion4 750 275 750 275 50 275 50 iberiA Dash8
+Avion5 600 50 600 50 600 500 50 Vueling E-Jet
+Avion6 200 50 200 50 200 500 50 british_airways B737
+Avion7 50 137 50 137 750 137 50 Ryanair B777
+Avion8 50 413 50 413 750 413 50 United_Airlines CRJ700

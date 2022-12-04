@@ -1,0 +1,11 @@
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\bin\Release\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\bin\Release\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\bin\Release\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\bin\Release\netstandard2.0\System.Data.SQLite.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\bin\Release\netstandard2.0\System.Data.SQLite.xml
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Release\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Release\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Release\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Release\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Release\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Release\netstandard2.0\FlightLib.pdb

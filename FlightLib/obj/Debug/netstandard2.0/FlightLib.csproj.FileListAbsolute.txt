@@ -1,0 +1,445 @@
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\roc\Desktop\INFII\PrimerProyecto\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csprojAssemblyReference.cache
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\source\repos\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Mariina\Desktop\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info 2 v1.4 (1)\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info 2 v1.5\Project Info 2 v2\Project Info 2\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\PrimerProyectoBefore\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info2 v1.9\Project Info2 v1.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.13\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v1.18\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.0\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.1\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info2 v2.4\Project Info2 v2.2\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\Project Info2 v2.0\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\Project Info2 v2.4\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.8 (1)\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\C#\Project Info2 v2.12\Project Info2 v2.10\Project Info2 v2.9\Project Info2 v2.7\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\alexj\OneDrive\Escritorio\Uni\2021-1\I2\I2 Project\Project Info2 v2.17.3\Project Info2 v2.17\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\arnau\Documents\INFO\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\Mariina\Downloads\Project Info2 v3.1\Project Info2 v3.0\Project Info2 v2.17.4\Project Info2 v2.17 - copia\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\bin\Debug\netstandard2.0\FlightLib.deps.json
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\bin\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\bin\Debug\netstandard2.0\FlightLib.pdb
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\bin\Debug\netstandard2.0\System.Data.SQLite.xml
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\obj\Debug\netstandard2.0\FlightLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\obj\Debug\netstandard2.0\FlightLib.AssemblyInfo.cs
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\obj\Debug\netstandard2.0\FlightLib.csproj.CopyComplete
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\obj\Debug\netstandard2.0\FlightLib.dll
+C:\Users\berna\Desktop\UNIVERSITAT\2A\INFO II\Project Info2 v3.2\FlightLib\obj\Debug\netstandard2.0\FlightLib.pdb

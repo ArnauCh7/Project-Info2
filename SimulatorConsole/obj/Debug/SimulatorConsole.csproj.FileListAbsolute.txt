@@ -1,0 +1,40 @@
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.csprojAssemblyReference.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Users\roc\Desktop\INFII\PrimerProyecto\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csprojAssemblyReference.cache
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Users\roc\Desktop\INFII\Sesion1\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\UNIVERSITAT\2A\INFO2\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.exe.config
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.exe
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\SimulatorConsole\bin\Debug\SimulatorConsole.pdb
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\SimulatorConsole\bin\Debug\FlightLib.dll
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\SimulatorConsole\bin\Debug\FlightLib.pdb
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.AssemblyReference.cache
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.csproj.CopyComplete
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.exe
+C:\Users\arnau\Documents\INFO\C#\Projects\Primer Proyecto\PrimerProyectoBefore\SimulatorConsole\obj\Debug\SimulatorConsole.pdb
